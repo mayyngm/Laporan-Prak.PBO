@@ -59,11 +59,12 @@ Link menuju script --> [klik disini](../../src/1_Pengantar_Konsep_PBO/SepedaDemo
 5.	Tambahkan atribut warna pada class Sepeda.<br>
     Jawab:<br>
     penambahan method warna di class sepeda
-    ![script tambahan warna](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Warna.PNG)<br>
+    ![script tambahan warna](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Warna.PNG)
     Link menuju script --> [klik](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaGunung.java)<br><br>
     yang lalu method warna di panggil ke class SepedaDemo
     ![script tambahan warna ](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Warna2.PNG)<br>
-    Link menuju script --> [klik](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaDemo.java)<br>
+    Link menuju script --> [klik](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
+<br>
 <br>
 6.	Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?<br>
     Jawab:<br>
@@ -73,11 +74,9 @@ Link menuju script --> [klik disini](../../src/1_Pengantar_Konsep_PBO/SepedaDemo
 Buatlah program yang merupakan class dari objek yang ada dunia nyata sesuai dengan imajinasi anda. Silahkan merujuk pada kode program praktikum yang sudah kita lakukan sebelumnya untuk sintak-sintak nya<br><br>
 Pertama, kita harus membuat method di class Laptop yang terdiri dari merk, series, windows, microsoft, biaya.
 ![script laptop](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Laptop.PNG)<br>
-Link menuju script --> [klik disini](../../src/1_Pengantar_Konsep_PBO/Laptop.java)
-![script inheritance laptop](img/LaptopColor.PNG)<br>
-Link menuju script --> [klik disini](../../src/1_Pengantar_Konsep_PBO/LaptopColor.java)
-![script main laptop](img/LaptopAhoy.PNG)<br>
-Link menuju script --> [klik disini](../../src/1_Pengantar_Konsep_PBO/LaptopAhoy.java)
+Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/Laptop.java)<br>![script inheritance laptop](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/LaptopColor.PNG)<br>
+Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/LaptopColor.java)<br>
+Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/LaptopAhoy.java)
 <br><br>
 ## <b>Kesimpulan</b>
 Kita ketahui bahwa SepedaGunung pada dasarnya adalah sama dengan Sepeda (memiliki gear, memiliki kecepatan, dapat menambah kecepatan, dapat mengerem, pindah gigi, dsb) namun ada fitur tambahan yaitu tipe suspensi. Maka kita tidak perlu membuat class SepedaGunung dari nol, kita extends atau wariskan saja dari class Sepeda, kemudian kita tinggal tambahkan fitur yang sebelumnya belum ada di class Sepeda. Inilah salah satu kelebihan PBO yang tidak ada di pemrograman struktural.
