@@ -60,10 +60,10 @@ Link menuju script --> [klik disini](../../src/1_Pengantar_Konsep_PBO/SepedaDemo
     Jawab:<br>
     penambahan method warna di class sepeda
     ![script tambahan warna](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Warna.PNG)<br>
-    Link menuju script --> [klik](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)<br><br>
+    Link menuju script --> [klik](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaGunung.java)<br><br>
     yang lalu method warna di panggil ke class SepedaDemo
     ![script tambahan warna ](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Warna2.PNG)<br>
-    Link menuju script --> [klik](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)<br>
+    Link menuju script --> [klik](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaDemo.java)<br>
 <br>
 6.	Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?<br>
     Jawab:<br>
