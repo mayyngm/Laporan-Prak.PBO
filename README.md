@@ -1,5 +1,4 @@
 # Laporan-Prak.PBO
-# Laporan-Prak.PBO
 Laporan Prakrikum Pemrograman Berbasis Objek
 # Petunjuk Laporan Praktikum Pemrograman Berorientasi Objek
 |  |  |
