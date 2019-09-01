@@ -72,6 +72,7 @@ ini adalah class turunan dari class Laptop.<br>
 ![script inheritance laptop](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/LaptopColor.PNG)<br>
 Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/LaptopColor.java)<br>
 dan ini adalah class main berserta hasil outputnya.<br>
+![script output](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/LaptopAhoyy.PNG)<br>
 Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/LaptopAhoy.java)
 <br>
 
