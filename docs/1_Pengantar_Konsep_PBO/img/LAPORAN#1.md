@@ -10,28 +10,28 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:<br>
 2. Extends antara cucu ke kakek. class di cucu dapat di extends ke class bapak. di [SepedaKhusus.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/SepedaKhusus1841720003Mayang.java) class tersebut di extends ke class SepedaGunung,kenapa? ya karena agar dapat mengakses method yang ada di class SepedaGunung. 
 <br>fungsi dari modifier "protected" adalah agar objek tersebut hanya bisa di akses oleh class itu sendiri. kode "super" sendiri adalah kode yang di pakai untuk mewakili class induknya.
 berikut contohnya:<br>
-![Sepeda Khusus](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/SepedaKhusus.PNG)<br>
+![Sepeda Khusus](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/SepedaKhusus.PNG)<br>
 dan di bawah ini adalah main beserta hasil outputnya:
-![extend 3 turunan](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/extends3.PNG)
+![extend 3 turunan](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/extends3.PNG)
 <br>
 
 ## <b>Percobaan</b><br>
 ### Percobaan 1
 Didalam percobaan ini, kita akan mendemonstrasikan bagaimana membuat class, membuat object, kemudian mengakses method didalam class tersebut.<br>
-![script sepeda](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Sepeda.PNG)<br>
-Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/Sepeda1841720003Mayang.java)<br><br>
+![script sepeda](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Sepeda.PNG)<br>
+Link menuju script --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/Sepeda1841720003Mayang.java)<br><br>
 Lalu kita akan membuat class main yang dimana berisi code untuk memanggil method yang ada di class Sepeda.
-![script sepeda demo](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/SepedaDemo1.PNG)<br>
-Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaDemo1841720003Mayang.java)
+![script sepeda demo](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/SepedaDemo1.PNG)<br>
+Link menuju script --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/SepedaDemo1841720003Mayang.java)
 <br><br>
 
 ### Percobaan 2<br>
 Didalam percobaan ini, akan didemonstrasikan salah satu fitur yang paling penting dalam PBO, yaitu inheritance. Disini kita akan membuat class SepedaGunung yang mana adalah turunan/warisan dari class Sepeda. Pada dasarnya class SepedaGunung adalah sama dengan class Sepeda, hanya saja pada sepeda gunung terdapat tipe suspensi. Untuk itu kita tidak perlu membuat class Sepeda Gunung dari nol, tapi kita wariskan saja class Sepeda ke class SepedaGunung.<br>
-![script sepeda gunung](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/SepedaGunung.PNG)<br>
-Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaGunung1841720003Mayang.java)<br><br>
+![script sepeda gunung](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/SepedaGunung.PNG)<br>
+Link menuju script --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/SepedaGunung1841720003Mayang.java)<br><br>
 Lalu kita ubah sedikit dibagian Class main SepedaDemo, kita tambahi code untuk memanggil method dari class SepedaGunung yang dimana merupakan extends dari class Sepeda
-![script sepeda demo 1](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/SepedaDemo2.PNG)<br>
-Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaDemo1841720003Mayang.java)
+![script sepeda demo 1](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/SepedaDemo2.PNG)<br>
+Link menuju script --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/SepedaDemo1841720003Mayang.java)
 <br><br>
 
 ## <b>Pertanyaan</b>
@@ -54,11 +54,11 @@ Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO
 5.	Tambahkan atribut warna pada class Sepeda.<br>
     Jawab:<br>
     penambahan method warna di class sepeda<br>
-    ![script tambahan warna](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Warna.PNG)<br>
-    Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaGunung1841720003Mayang.java)<br><br>
+    ![script tambahan warna](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Warna.PNG)<br>
+    Link menuju script --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/SepedaGunung1841720003Mayang.java)<br><br>
     yang lalu method warna di panggil ke class SepedaDemo<br>
-    ![script tambahan warna ](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Warna2.PNG)<br>
-    Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaDemo1841720003Mayang.java)<br>
+    ![script tambahan warna ](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Warna2.PNG)<br>
+    Link menuju script --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/SepedaDemo1841720003Mayang.java)<br>
 6.	Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?<br>
     Jawab:<br>
     Karena kita hanya memperluas fungsi dari fungsi yang sebelumnya, dalam artian kita hanya menambahkan fungsi lain karena objek tersebut adalah turunan dari objek yang sebelumnya.<br><br>
@@ -66,14 +66,14 @@ Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO
 ## <b>Tugas</b>
 Buatlah program yang merupakan class dari objek yang ada dunia nyata sesuai dengan imajinasi anda. Silahkan merujuk pada kode program praktikum yang sudah kita lakukan sebelumnya untuk sintak-sintak nya<br>
 Pertama, kita harus membuat method di class Laptop yang terdiri dari merk, series, windows, microsoft, biaya.<br>
-![script laptop](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Laptop.PNG)<br>
-Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/Laptop1841720003Mayang.java)<br>
+![script laptop](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/Laptop.PNG)<br>
+Link menuju script --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/Laptop1841720003Mayang.java)<br>
 ini adalah class turunan dari class Laptop.<br>
-![script inheritance laptop](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/LaptopColor.PNG)<br>
-Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/LaptopColor1841720003Mayang.java)<br>
+![script inheritance laptop](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/LaptopColor.PNG)<br>
+Link menuju script --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/LaptopColor1841720003Mayang.java)<br>
 dan ini adalah class main berserta hasil outputnya.<br>
-![script output](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/LaptopAhoyy.PNG)<br>
-Link menuju script --> [klik disini](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/LaptopAhoy1841720003Mayang.java)
+![script output](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/LaptopAhoyy.PNG)<br>
+Link menuju script --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/LaptopAhoy1841720003Mayang.java)
 <br>
 
 ## <b>Kesimpulan</b>
