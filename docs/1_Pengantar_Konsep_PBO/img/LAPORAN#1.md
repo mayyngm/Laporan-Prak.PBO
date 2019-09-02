@@ -7,7 +7,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:<br>
 ## Ringkasan Materi<br>
 1. Di lingkaran merah bawah output menampilkan "warna: null". karena pada dasar nya method warna di objek "spd1" tidak di beri data dan otomatis akan menampilkan output "null" meskipun method warna tidak dipanggil.<br>
 ![ringkasan materi](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/materi.PNG) 
-2. Extends antara cucu ke kakek. class di cucu dapat di extends ke class bapak. di [SepedaKhusus.java](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/src/1_Pengantar_Konsep_PBO/SepedaKhusus1841720003Mayang.java) class tersebut di extends ke class SepedaGunung,kenapa? ya karena agar dapat mengakses method yang ada di class SepedaGunung. 
+2. Extends antara cucu ke kakek. class di cucu dapat di extends ke class bapak. di [SepedaKhusus.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/1_Pengantar_Konsep_PBO/SepedaKhusus1841720003Mayang.java) class tersebut di extends ke class SepedaGunung,kenapa? ya karena agar dapat mengakses method yang ada di class SepedaGunung. 
 <br>fungsi dari modifier "protected" adalah agar objek tersebut hanya bisa di akses oleh class itu sendiri. kode "super" sendiri adalah kode yang di pakai untuk mewakili class induknya.
 berikut contohnya:<br>
 ![Sepeda Khusus](https://github.com/mayyngm/Laporan-Prak.PBO/blob/master/docs/1_Pengantar_Konsep_PBO/img/img/SepedaKhusus.PNG)<br>
