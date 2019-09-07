@@ -103,7 +103,7 @@ diagram pada studi kasus diatas!
     Lalu yang kedua kita akan membuat main nya. seperti gambar di bawah ini
     ![Lingkaran](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/mainLingkaran.PNG)
     maka output nya seperti gambar di atas.
-4. Buatlah program sesuai dengan class diagram berikut ini:
+4. Buatlah program sesuai dengan class diagram berikut ini:<br>
     ![soal](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/soal4.PNG)<br>
     jawab:<br>
     Dari class diagram di atas. pertama kita akan membuat class Diskon dahulu. script bisa dilihat di [Diskon.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Diskon1841720003Mayang.java)
@@ -122,3 +122,5 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 Ttd,
 <br>
 ***(Mayang Muria Cahyaningsih)***
+
+***untuk source code yang lengkap beserta main nya, ada di folder src***
