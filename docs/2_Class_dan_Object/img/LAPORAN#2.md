@@ -1,4 +1,4 @@
-# Laporan Praktikum 1 - CLASS dan OBJECT
+# Laporan Praktikum 2 - CLASS dan OBJECT
 # Kompetensi <br>
 - Mahasiswa dapat memahami deskripsi dari class dan object
 - Mahasiswa memahami implementasi dari class
