@@ -22,14 +22,14 @@ juga bisa menampilkan data diri pribadi dan melihat gajinya
 
 ### Percobaan 2: Membuat dan mengakses anggota suatu class
 
-![mahasiswa](img/mahasiswa.PNG)
+![mahasiswa](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/mahasiswa.png)
 
 Pertama membuat class Mahasiswa yang isinya terdapat method tampilBiodata(); [class Mahasiswa.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Mahasiswa1841720003Mayang.java)
 
 Untuk dapat mengakses anggota-anggota dari suatu obyek, maka harus dibuat instance
 dari class tersebut terlebih dahulu. Berikut ini adalah cara pengaksesan anggota-anggota dari class Mahasiswa
 
-![Mahasiswa](img/mainMahasiswa.PNG)
+![Mahasiswa](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/mainMahasiswa.PNG)
 1. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!<br>
     jawab:<br>
     public int nimMayang;<br>
@@ -58,16 +58,16 @@ dari class tersebut terlebih dahulu. Berikut ini adalah cara pengaksesan anggota
 
 6.  Instansiasi 2 objek lagi pada program diatas!<br>
     jawab:<br>
-    ![instansiasi](img/instance.PNG)
+    ![instansiasi](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/instance.PNG)
 
 ### Percobaan 3: Menulis method yang memiliki argument/parameter dan memiliki return
-![class Barang](img/classBarang.PNG)
+![class Barang](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/classBarang.PNG)
 class Barang.java --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Barang1841720003Mayang.java)
 
 Untuk dapat mengakses anggota-anggota dari suatu obyek, maka harus dibuat instance
 dari class tersebut terlebih dahulu. Berikut ini adalah cara pengaksesan anggotaanggota dari class Barang.
 
-![main Barang](img/mainBarang.PNG)
+![main Barang](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/mainBarang.PNG)
 
 1. Apakah fungsi argumen dalam suatu method?<br>
     jawab:<br>
@@ -87,29 +87,29 @@ diagram pada studi kasus diatas!
     - Harga yang harus dibayar diperoleh dari lama sewa x harga.
     - Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja<br>
     jawab:<br>
-    ![class diagram](img/videogame.jpg)
+    ![class diagram](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/videogame.jpg)
 2. Buatlah program dari class diagram yang sudah anda buat di no 1!<br>
     jawab:<br>
     Dari class diagram di atas. pertama kita akan membuat class VideoGame dahulu. script bisa dilihat di [VideoGame.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/VideoGame1841720003Mayang.java)
 
     Lalu yang kedua kita akan membuat main nya. seperti gambar di bawah ini
-    ![class diagram](img/mainVideo.png)
+    ![class diagram](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/mainVideo.PNG)
     maka output nya seperti gambar di atas.
 3. Buatlah program sesuai dengan class diagram berikut ini:
-    ![soal](img/soal3.png)<br>
+    ![soal](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/soal3.PNG)<br>
     jawab:<br>
     Dari class diagram di atas. pertama kita akan membuat class Lingkaran dahulu. script bisa dilihat di [Lingkaran.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Lingkaran1841720003Mayang.java)
 
     Lalu yang kedua kita akan membuat main nya. seperti gambar di bawah ini
-    ![Lingkaran](img/mainLingkaran.png)
+    ![Lingkaran](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/mainLingkaran.PNG)
     maka output nya seperti gambar di atas.
 4. Buatlah program sesuai dengan class diagram berikut ini:
-    ![soal](img/soal4.png)<br>
+    ![soal](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/soal4.PNG)<br>
     jawab:<br>
     Dari class diagram di atas. pertama kita akan membuat class Diskon dahulu. script bisa dilihat di [Diskon.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Diskon1841720003Mayang.java)
 
     Lalu yang kedua kita akan membuat main nya. seperti gambar di bawah ini
-    ![Lingkaran](img/mainDiscount.png)
+    ![Diskon](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/mainDiscount.PNG)
     maka output nya seperti gambar di atas.
 
 ## <b>Kesimpulan</b>
