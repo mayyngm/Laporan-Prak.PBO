@@ -95,7 +95,7 @@ diagram pada studi kasus diatas!
     Lalu yang kedua kita akan membuat main nya. seperti gambar di bawah ini
     ![class diagram](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/mainVideo.PNG)
     maka output nya seperti gambar di atas.
-3. Buatlah program sesuai dengan class diagram berikut ini:
+3. Buatlah program sesuai dengan class diagram berikut ini:<br>
     ![soal](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/soal3.PNG)<br>
     jawab:<br>
     Dari class diagram di atas. pertama kita akan membuat class Lingkaran dahulu. script bisa dilihat di [Lingkaran.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Lingkaran1841720003Mayang.java)
