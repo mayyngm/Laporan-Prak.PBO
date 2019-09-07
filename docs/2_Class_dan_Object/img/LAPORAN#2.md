@@ -18,7 +18,7 @@ Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap
 karyawan memiliki id, nama, jenis kelamin, jabatan, jabatan, dan gaji. Setiap mahasiswa
 juga bisa menampilkan data diri pribadi dan melihat gajinya
 
-![class diagram](img/karyawan.png)
+![class diagram](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/docs/2_Class_dan_Object/img/img/karyawan.png)
 
 ### Percobaan 2: Membuat dan mengakses anggota suatu class
 
