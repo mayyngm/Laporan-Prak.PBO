@@ -24,7 +24,7 @@ juga bisa menampilkan data diri pribadi dan melihat gajinya
 
 ![mahasiswa](img/mahasiswa.PNG)
 
-Pertama membuat class Mahasiswa yang isinya terdapat method tampilBiodata(); [class Mahasiswa.java](../../src/2_Class_dan_Object/Mahasiswa1841720003Mayang.java)
+Pertama membuat class Mahasiswa yang isinya terdapat method tampilBiodata(); [class Mahasiswa.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Mahasiswa1841720003Mayang.java)
 
 Untuk dapat mengakses anggota-anggota dari suatu obyek, maka harus dibuat instance
 dari class tersebut terlebih dahulu. Berikut ini adalah cara pengaksesan anggota-anggota dari class Mahasiswa
@@ -62,7 +62,7 @@ dari class tersebut terlebih dahulu. Berikut ini adalah cara pengaksesan anggota
 
 ### Percobaan 3: Menulis method yang memiliki argument/parameter dan memiliki return
 ![class Barang](img/classBarang.PNG)
-class Barang.java --> [klik disini](../../src/2_Class_dan_Object/Barang1841720003Mayang.java)
+class Barang.java --> [klik disini](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Barang1841720003Mayang.java)
 
 Untuk dapat mengakses anggota-anggota dari suatu obyek, maka harus dibuat instance
 dari class tersebut terlebih dahulu. Berikut ini adalah cara pengaksesan anggotaanggota dari class Barang.
@@ -90,7 +90,7 @@ diagram pada studi kasus diatas!
     ![class diagram](img/videogame.jpg)
 2. Buatlah program dari class diagram yang sudah anda buat di no 1!<br>
     jawab:<br>
-    Dari class diagram di atas. pertama kita akan membuat class VideoGame dahulu. script bisa dilihat di [VideoGame.java](../../src/2_Class_dan_Object/VideoGame1841720003Mayang.java)
+    Dari class diagram di atas. pertama kita akan membuat class VideoGame dahulu. script bisa dilihat di [VideoGame.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/VideoGame1841720003Mayang.java)
 
     Lalu yang kedua kita akan membuat main nya. seperti gambar di bawah ini
     ![class diagram](img/mainVideo.png)
@@ -98,7 +98,7 @@ diagram pada studi kasus diatas!
 3. Buatlah program sesuai dengan class diagram berikut ini:
     ![soal](img/soal3.png)<br>
     jawab:<br>
-    Dari class diagram di atas. pertama kita akan membuat class Lingkaran dahulu. script bisa dilihat di [Lingkaran.java](../../src/2_Class_dan_Object/Lingkaran1841720003Mayang.java)
+    Dari class diagram di atas. pertama kita akan membuat class Lingkaran dahulu. script bisa dilihat di [Lingkaran.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Lingkaran1841720003Mayang.java)
 
     Lalu yang kedua kita akan membuat main nya. seperti gambar di bawah ini
     ![Lingkaran](img/mainLingkaran.png)
@@ -106,7 +106,7 @@ diagram pada studi kasus diatas!
 4. Buatlah program sesuai dengan class diagram berikut ini:
     ![soal](img/soal4.png)<br>
     jawab:<br>
-    Dari class diagram di atas. pertama kita akan membuat class Diskon dahulu. script bisa dilihat di [Diskon.java](../../src/2_Class_dan_Object/Diskon1841720003Mayang.java)
+    Dari class diagram di atas. pertama kita akan membuat class Diskon dahulu. script bisa dilihat di [Diskon.java](https://github.com/mayyngm/laporan-praktikum-pbo-2019/blob/master/src/2_Class_dan_Object/Diskon1841720003Mayang.java)
 
     Lalu yang kedua kita akan membuat main nya. seperti gambar di bawah ini
     ![Lingkaran](img/mainDiscount.png)
