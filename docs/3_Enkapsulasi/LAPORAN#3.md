@@ -33,7 +33,7 @@ Void dan Tipe data
 Didalam percobaan enkapsulasi, buatlah class Motor yang memiliki atribut kecepatan dan kontakOn,
 dan memiliki method printStatus() untuk menampilkan status motor
 
-![class motor](img/motor1.png)
+![class motor](img/motor1841720003.png)
 
 Kemudian buat class MotorDemo, ketikkan kode berikut ini
 
