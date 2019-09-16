@@ -105,12 +105,7 @@ Pertama, kita harus membuat method di class Laptop yang terdiri dari merk, serie
 
 ![script laptop](../../docs/1_Pengantar_Konsep_PBO/img/Laptop.PNG)
 
-![Laptop](../../docs/1_Pengantar_Konsep_PBOimg/Laptop.PNG)
-
-
-Link menuju script--> 
-
-[link ke kode program](../../src/1_Pengantar_Konsep_PBO/Laptop1841720003Mayang.java)
+Link menuju script--> [link ke kode program](../../src/1_Pengantar_Konsep_PBO/Laptop1841720003Mayang.java)
 
 ini adalah class turunan dari class Laptop.
 
