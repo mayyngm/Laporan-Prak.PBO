@@ -30,7 +30,43 @@ public class MotorDemo1841720003Mayang {
         
         motor.tambahKecepatanMayang();
         motor.printStatusMayang();
-        
+        //
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
+        motor.tambahKecepatanMayang();
+        motor.printStatusMayang();
         motor.matikanMesinMayang();
         motor.printStatusMayang();
     }

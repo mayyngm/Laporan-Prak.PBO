@@ -18,7 +18,11 @@ public class EncapTest1841720003Mayang {
         EncapDemo1841720003Mayang encap = new EncapDemo1841720003Mayang();
         encap.setNameMayang("Mayang");
         encap.setAgeMayang(17);
+        System.out.println("Name: "+ encap.getNameMayang());
+        System.out.println("Age : "+ encap.getAgeMayang());
         
+        encap.setNameMayang("Muria");
+        encap.setAgeMayang(31);
         System.out.println("Name: "+ encap.getNameMayang());
         System.out.println("Age : "+ encap.getAgeMayang());
     }

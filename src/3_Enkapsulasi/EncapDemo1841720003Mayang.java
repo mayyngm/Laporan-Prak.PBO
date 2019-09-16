@@ -25,11 +25,11 @@ public class EncapDemo1841720003Mayang {
     public void setAgeMayang(int newAgeMayang){
         if (newAgeMayang > 30) {
             mAgeMayang=30;
-            System.out.println("Max Age is 30!");
+            System.out.println("Min Age is 30!");
         }
         else if(newAgeMayang < 18){
             mAgeMayang=18;
-            System.out.println("Min Age is 18!");
+            System.out.println("Max Age is 18!");
         }
         else{
             mAgeMayang=newAgeMayang;

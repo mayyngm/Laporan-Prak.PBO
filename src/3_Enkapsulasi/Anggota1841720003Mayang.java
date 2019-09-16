@@ -1,14 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package enkapsulasi1841720003mayang;
-
-/**
- *
- * @author ASUS
- */
 public class Anggota1841720003Mayang {
     private String mNamaMayang;
     private String mAlamatMayang;
@@ -17,7 +7,7 @@ public class Anggota1841720003Mayang {
     Anggota1841720003Mayang(String mNamaMayang, String mAlamatMayang){
         this.mNamaMayang=mNamaMayang;
         this.mAlamatMayang=mAlamatMayang;
-        this.mSimpananMayang=mSimpananMayang;
+        this.mSimpananMayang=0;
     }
     //setter, getter nama dan alamat
     public void setNamaMayang(String mNamaMayang){

@@ -23,8 +23,9 @@ public class KoperasiDemo1841720003Mayang {
         System.out.println("Simpanan "+anggota1.getNamaMayang()+" : Rp "+anggota1.getSimpananMayang());
         anggota1.pinjamMayang(5000);
         System.out.println("Simpanan "+anggota1.getNamaMayang()+" : Rp "+anggota1.getSimpananMayang());*/
-        //percobaan 4
-        //passing parameter
+        
+        //PERCOBAAN 4
+        //PASSING PARAMETER
         Anggota1841720003Mayang anggota1=new Anggota1841720003Mayang("Mayang","Jl Ambarawa 4");
         System.out.println("Simpanan "+anggota1.getNamaMayang()+" : Rp "+anggota1.getSimpananMayang());
         
@@ -34,6 +35,5 @@ public class KoperasiDemo1841720003Mayang {
         System.out.println("Simpanan "+anggota1.getNamaMayang()+" : Rp "+anggota1.getSimpananMayang());
         anggota1.pinjamMayang(5000);
         System.out.println("Simpanan "+anggota1.getNamaMayang()+" : Rp "+anggota1.getSimpananMayang());
-    }
-    
+    }  
 }

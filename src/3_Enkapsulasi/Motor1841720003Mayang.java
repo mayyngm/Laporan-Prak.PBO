@@ -32,6 +32,13 @@ public class Motor1841720003Mayang {
     public void tambahKecepatanMayang(){
         if (kontakOnMayang==true) {
             kecepatanMayang+=5;
+            if(kecepatanMayang==100){
+                System.out.println("Kecepatan MAXIMUM!!");
+            }
+            else if(kecepatanMayang>100){
+                kecepatanMayang-=5;
+                System.out.println("Tidak bisa menambah!!");
+            }
         }
         else{
             System.out.println("kecepatan tidak bisa bertambah karena mesin off!");
