@@ -9,7 +9,7 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 ## Percobaan
 ### Percobaan 1
-![UML LAPTOP](img/umlaptop.png)
+![UML LAPTOP](img/umlaptop.PNG)
 - Buatlah class Processor dalam package yang sudah disiapkan.
 
     public class Processor {
