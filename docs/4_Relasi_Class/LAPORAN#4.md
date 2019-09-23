@@ -9,7 +9,7 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 ## Percobaan
 ### Percobaan 1
-![UML LAPTOP](img/umlaptop.PNG)
+![UML LAPTOP](img/umlaptop.png)
 - Buatlah class Processor dalam package yang sudah disiapkan.
 
     public class Processor {
@@ -37,9 +37,10 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
     System.out.printf("Cache Memory = %.2f\n", cache);
 
     }
-![class processor](img/classproc.PNG)
-
-Link menuju class --> [Processor1841720003Mayang.java](../../src/4_Relasi_Class/Processor1841720003Mayang.java)
+    
+    ![class processor](img/classproc.PNG)
+    
+    Link menuju class --> [Processor1841720003Mayang.java](../../src/4_Relasi_Class/Processor1841720003Mayang.java)
 
 - Kemudian buatlah class Laptop di dalam package yang telah di buat.
 - Tambahkan atribut merk dengan tipe String dan proc dengan tipe Object Processor
