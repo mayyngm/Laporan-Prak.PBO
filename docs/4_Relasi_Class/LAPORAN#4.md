@@ -9,7 +9,7 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 ## Percobaan
 ### Percobaan 1
-![UML LAPTOP](img/laptop.PNG)
+![UML LAPTOP](img/laptop.png)
 - Buatlah class Processor dalam package yang sudah disiapkan.
 
     public class Processor {
@@ -37,8 +37,10 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
     System.out.printf("Cache Memory = %.2f\n", cache);
 
     }
-![class processor](img/classproc.PNG)
-Link menuju class --> [Processor1841720003Mayang.java](../../src/4_Relasi_Class/Processor1841720003Mayang.java)
+    
+    ![class processor](img/classproc.PNG)
+    
+    Link menuju class --> [Processor1841720003Mayang.java](../../src/4_Relasi_Class/Processor1841720003Mayang.java)
 
 - Kemudian buatlah class Laptop di dalam package yang telah di buat.
 - Tambahkan atribut merk dengan tipe String dan proc dengan tipe Object Processor
@@ -60,8 +62,10 @@ Link menuju class --> [Processor1841720003Mayang.java](../../src/4_Relasi_Class/
     proc.info();
 
     }
-![class laptop](img/classlaptop.PNG)
-Link menuju class --> [Laptop1841720003Mayang.java](../../src/4_Relasi_Class/Processor1841720003Mayang.java)
+    
+    ![class laptop](img/classlaptop.PNG)
+    
+    Link menuju class --> [Laptop1841720003Mayang.java](../../src/4_Relasi_Class/Processor1841720003Mayang.java)
 
 - Pada package yang sama, buatlah class MainPercobaan1 yang berisi method main().
 
@@ -92,7 +96,9 @@ Link menuju class --> [Laptop1841720003Mayang.java](../../src/4_Relasi_Class/Pro
     L1.info();
 
 - Compile kemudian run class MainPercobaan1, akan didapatkan hasil seperti berikut:
+
 ![class main](img/main1.PNG)
+
 Link menuju class --> [MainPercobaan11841720003Mayang.java](../../src/4_Relasi_Class/Processor1841720003Mayang.java)
 
 ### Pertanyaan percobaan 1
@@ -113,6 +119,7 @@ Link menuju class --> [MainPercobaan11841720003Mayang.java](../../src/4_Relasi_C
 
 4. Perhatikan class Laptop, pada baris manakah yang menunjukan bahwa class Laptop memiliki relasi dengan class Processor ?
     Jawab:
+    
     ![relasi class](img/no4.PNG)
 
 5. Perhatikan pada class Laptop , Apakah guna dari sintaks proc.info() ?
@@ -136,7 +143,7 @@ Link menuju class --> [MainPercobaan11841720003Mayang.java](../../src/4_Relasi_C
 ### Percobaan 2
 Perhatikan diagram class berikut yang menggambarkan sistem rental mobil. Pelanggan bisa menyewa mobil sekaligus sopir. Biaya sopir dan biaya sewa mobil dihitung per hari.
 
-![UML pelanggan](img/pelanggan.PNG)
+![UML pelanggan](img/pelanggan.png)
 
 - Tambahkan package <identifier>.relasiclass.percobaan2.
 
@@ -153,8 +160,10 @@ Perhatikan diagram class berikut yang menggambarkan sistem rental mobil. Pelangg
     return biaya * hari;
 
     }
-![class mobil](img/classmobil.PNG)
-Link menuju class --> [Mobil1841720003Mayang.java](../../src/4_Relasi_Class/Mobil1841720003Mayang.java)
+    
+    ![class mobil](img/classmobil.PNG)
+    
+    Link menuju class --> [Mobil1841720003Mayang.java](../../src/4_Relasi_Class/Mobil1841720003Mayang.java)
 
 - Tambahkan class Sopir dengan atribut nama tipe String dan biaya tipe int dengan akses modifier private berikut dengan constructor default.
 
@@ -165,12 +174,15 @@ Link menuju class --> [Mobil1841720003Mayang.java](../../src/4_Relasi_Class/Mobi
     return biaya * hari;
 
     }
-![class sopir](img/classsopir.PNG)
-Link menuju class --> [Sopir1841720003Mayang.java](../../src/4_Relasi_Class/Sopir1841720003Mayang.java)
+    
+    ![class sopir](img/classsopir.PNG)
+    
+    Link menuju class --> [Sopir1841720003Mayang.java](../../src/4_Relasi_Class/Sopir1841720003Mayang.java)
 
 - Tambahkan class Pelanggan dengan constructor default.
 
 - Tambahkan atribut‑atribut dengan akses modifier private berikut:
+
 ![tabel method](img/a1.PNG)
 
 - Implementasikan setter dan getter.
@@ -184,15 +196,19 @@ Link menuju class --> [Sopir1841720003Mayang.java](../../src/4_Relasi_Class/Sopi
     sopir.hitungBiayaSopir(hari);
 
     }
-![class pelanggan](img/classpelanggan.PNG)
-Link menuju class --> [Pelanggan1841720003Mayang.java](../../src/4_Relasi_Class/Pelanggan1841720003Mayang.java)
+    
+    ![class pelanggan](img/classpelanggan.PNG)
+    
+    Link menuju class --> [Pelanggan1841720003Mayang.java](../../src/4_Relasi_Class/Pelanggan1841720003Mayang.java)
 
 - Buatlah class MainPercobaan2 yang berisi method main(). Tambahkan baris kode berikut:
     
     ![baris tambahan](img/a2.PNG)
 
 - Compile dan jalankan class MainPercobaan2, dan perhatikan hasilnya!
+
 ![class main](img/main2.PNG)
+
 Link menuju class --> [MainPercobaan21841720003Mayang.java](../../src/4_Relasi_Class/MainPercobaan21841720003Mayang.java)
 
 ### Pertanyaan percobaan 2
@@ -234,7 +250,7 @@ Link menuju class --> [MainPercobaan21841720003Mayang.java](../../src/4_Relasi_C
 ### Percobaan 3
 Sebuah Kereta Api dioperasikan oleh Masinis serta seorang Asisten Masinis. Baik Masinis maupun Asisten Masinis keduanya merupakan Pegawai PT. Kereta Api Indonesia. Dari ilustrasi cerita tersebut, dapat digambarkan dalam diagram kelas sebagai berikut:
 
-![UML kereta api](img/keretaapi.PNG)
+![UML kereta api](img/keretaapi.png)
 
 - Buatlah package <identifier>.relasiclass.percobaan3, kemudian tambahkan class Pegawai.
 
@@ -259,8 +275,10 @@ Sebuah Kereta Api dioperasikan oleh Masinis serta seorang Asisten Masinis. Bai
     return info;
 
     }
-![class pegawai](img/classpegawai.PNG)
-Link menuju class --> [Pegawai1841720003Mayang.java](../../src/4_Relasi_Class/Pegawai1841720003Mayang.java)
+    
+    ![class pegawai](img/classpegawai.PNG)
+    
+    Link menuju class --> [Pegawai1841720003Mayang.java](../../src/4_Relasi_Class/Pegawai1841720003Mayang.java)
 
 - Buatlah class KeretaApi berdasarkan diagram class.
 
@@ -295,7 +313,9 @@ Link menuju class --> [Pegawai1841720003Mayang.java](../../src/4_Relasi_Class/Pe
     return info;
 
     }
+    
     ![class kai](img/classkai.PNG)
+    
     Link menuju class --> [KeretaApi1841720003Mayang.java](../../src/4_Relasi_Class/KeretaApi1841720003Mayang.java)
 
 - Buatlah sebuah class MainPercobaan3 dalam package yang sama.
@@ -311,6 +331,7 @@ Link menuju class --> [Pegawai1841720003Mayang.java](../../src/4_Relasi_Class/Pe
     System.out.println(keretaApi.info());
 
     ![class main](img/main3.PNG)
+    
     Link menuju class --> [MainPercobaan31841720003Mayang.java](../../src/4_Relasi_Class/MainPercobaan31841720003Mayang.java)
 
 ### Pertanyaan percobaan 3
@@ -320,14 +341,19 @@ Link menuju class --> [Pegawai1841720003Mayang.java](../../src/4_Relasi_Class/Pe
     Untuk memanggil method Info yang berada di class Pegawai melalui object masinis dan asisten
 
 2. Buatlah main program baru dengan nama class MainPertanyaan pada package yang sama. Tambahkan kode berikut pada method main() !
+
     ![soal](img/a4.PNG)
+    
     Jawab:
-    ![soal](img/no2a.PNG)
+    
+    ![soal](img/no2a.png)
 
 3. Apa hasil output dari main program tersebut ? Mengapa hal tersebut dapat terjadi ?
 
     Jawab:
+    
     ![soal](img/no2.PNG)
+    
     Karena ada variabel yang tidak bernilai atau null.
 
 4. Perbaiki class KeretaApi sehingga program dapat berjalan !
@@ -335,7 +361,8 @@ Link menuju class --> [Pegawai1841720003Mayang.java](../../src/4_Relasi_Class/Pe
     Jawab:
 
 ### Percobaan 4
-![UML gerbong](img/gerbong.PNG)
+
+![UML gerbong](img/gerbong.png)
 
 - Buatlah masing‑masing class Penumpang, Kursi dan Gerbong sesuai rancangan tersebut pada package <identifier>.relasiclass.percobaan4.
 
@@ -422,12 +449,15 @@ berikut:
     }
 
     ![class penumpang](img/classpenumpang.PNG)
+    
     Link menuju class --> [Penumpang1841720003Mayang.java](../../src/4_Relasi_Class/Penumpang1841720003Mayang.java)
 
     ![class kursi](img/classkursi.PNG)
+    
     Link menuju class --> [KursiT1841720003Mayang.java](../../src/4_Relasi_Class/KursiT1841720003Mayang.java)
 
     ![class gerbong](img/classgerbong.PNG)
+    
     Link menuju class --> [Gerbong1841720003Mayang1.java](../../src/4_Relasi_Class/Gerbong1841720003Mayang1.java)
 
 - Buatlah class MainPercobaan4 yang berisi method main(). Kemudian tambahkan baris berikut!
@@ -441,6 +471,7 @@ berikut:
     System.out.println(gerbong.info());
 
     ![class main](img/main4.PNG)
+    
     Link menuju class --> [MainPercobaan41841720003Mayang1.java](../../src/4_Relasi_Class/MainPercobaan41841720003Mayang1.java)
 
 ### Pertanyaan percobaan 4
@@ -472,7 +503,9 @@ berikut:
 4. Instansiasi objek baru budi dengan tipe Penumpang, kemudian masukkan objek baru tersebut pada gerbong dengan gerbong.setPenumpang(budi, 1). Apakah yang terjadi ?
 
     Jawab:
+    
     ![class main](img/no4modif.PNG)
+    
     Yang terjadi adalah, data yang sebelum nya tertumpuk/terganti oleh data yang baru.
 
 5. Modifikasi program sehingga tidak diperkenankan untuk menduduki kursi yang sudah ada
@@ -480,25 +513,32 @@ penumpang lain !
 
     Jawab:
     ![class modif](img/no5modif.PNG)
+    
     Link menuju class --> [Gerbong1841720003Mayang.java](../../src/4_Relasi_Class/Gerbong1841720003Mayang.java)
 
     ![class modif](img/no5main.PNG)
+    
     Link menuju class --> [MainPercobaan41841720003Mayang.java](../../src/4_Relasi_Class/MainPercobaan41841720003Mayang.java)
 
 ## Tugas
 ![class modif](img/classcustomer.PNG)
+
 Link menuju class --> [Customer1841720003Mayang.java](../../src/4_Relasi_Class/Customer1841720003Mayang.java)
 
 ![class modif](img/classowner.PNG)
+
 Link menuju class --> [Owner1841720003Mayang.java](../../src/4_Relasi_Class/Owner1841720003Mayang.java)
 
 ![class modif](img/classkursit.PNG)
+
 Link menuju class --> [KursiT1841720003Mayang.java](../../src/4_Relasi_Class/Kursit1841720003Mayang.java)
 
 ![class modif](img/classorder.PNG)
+
 Link menuju class --> [Order1841720003Mayang.java](../../src/4_Relasi_Class/Order1841720003Mayang.java)
 
 ![class modif](img/maintugas.PNG)
+
 Link menuju class --> [MainTugas1841720003Mayang.java](../../src/4_Relasi_Class/MainTugas1841720003Mayang.java)
 
 ## Kesimpulan
