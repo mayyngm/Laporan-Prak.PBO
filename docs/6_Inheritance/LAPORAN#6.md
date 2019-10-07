@@ -169,7 +169,7 @@
 
 - Buatlah Class inharitance 1
     ![inharitance1](img/inharitance1.PNG)
-    Link menuju class --> [Inharitance11841720003Mayang.java](../../src/6_Inheritance/Inharitance11841720003Mayang.java)
+    Link menuju class --> [Inheritance11841720003Mayang.java](../../src/6_Inheritance/Inheritance11841720003Mayang.java)
 
 ### Pertanyaan Percobaan 5
 1.  Sebutkan class mana	yang termasuk super	class dan sub	class dari percobaan 1 diatas!
