@@ -212,7 +212,7 @@
 
 - Setelah menbuat 2 class diatas kemudian edit class inharitance1 menjadi seperti dibawah ini:
     ![staff](img/inharitance11.PNG)
-    Link menuju class --> [Inharitance111841720003Mayang.java](../../src/6_Inheritance/Inharitance111841720003Mayang.java)
+    Link menuju class --> [Inheritance111841720003Mayang.java](../../src/6_Inheritance/Inheritance111841720003Mayang.java)
 
 ### Pertanyaan Percobaan 6
 1. Berdasarkan class diatas	manakah	yang termasuk single	inheritance	dan	mana yang termasuk multilevel inheritance?
