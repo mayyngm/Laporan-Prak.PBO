@@ -200,7 +200,7 @@
     termasuk kedalam single inheritance karena sub class hanya memiliki satu parent class
 
 ### Percobaan 6
-![uml](img/uml2.png)
+![uml](img/uml2.PNG)
 
 - Buatlah Class Staff Harian
     ![staff](img/staffharian.PNG)
