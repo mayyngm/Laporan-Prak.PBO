@@ -359,6 +359,8 @@ Sebuah Kereta Api dioperasikan oleh Masinis serta seorang Asisten Masinis. Bai
 4. Perbaiki class KeretaApi sehingga program dapat berjalan !
 
     Jawab:
+    
+    ![soal](img/baru4.PNG)
 
 ### Percobaan 4
 
@@ -493,7 +495,7 @@ berikut:
     ...
 
     Jawab:
-    untuk menampilkan kursi yang terisi oleh penumpang, tetapi bila penumpang tidak null, maka kode program yang terdapat pada if tidak dijalankan atau berarti kursi tersebut masih kosong
+    (perbaikan) pada saat penumpang ter isi, maka akan menampilkan method info
 
 3. Mengapa pada method setPenumpang() dalam class Gerbong, nilai nomor dikurangi dengan angka 1 ?
 
