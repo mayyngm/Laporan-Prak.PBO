@@ -9,7 +9,7 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 ## Percobaan
 ### Percobaan 1
-![UML LAPTOP](img/laptop.png)
+![UML LAPTOP](img/umllaptop.png)
 - Buatlah class Processor dalam package yang sudah disiapkan.
 
     public class Processor {
@@ -143,7 +143,7 @@ Link menuju class --> [MainPercobaan11841720003Mayang.java](../../src/4_Relasi_C
 ### Percobaan 2
 Perhatikan diagram class berikut yang menggambarkan sistem rental mobil. Pelanggan bisa menyewa mobil sekaligus sopir. Biaya sopir dan biaya sewa mobil dihitung per hari.
 
-![UML pelanggan](img/pelanggan.png)
+![UML pelanggan](img/umlpelanggan.png)
 
 - Tambahkan package <identifier>.relasiclass.percobaan2.
 
@@ -250,7 +250,7 @@ Link menuju class --> [MainPercobaan21841720003Mayang.java](../../src/4_Relasi_C
 ### Percobaan 3
 Sebuah Kereta Api dioperasikan oleh Masinis serta seorang Asisten Masinis. Baik Masinis maupun Asisten Masinis keduanya merupakan Pegawai PT. Kereta Api Indonesia. Dari ilustrasi cerita tersebut, dapat digambarkan dalam diagram kelas sebagai berikut:
 
-![UML kereta api](img/keretaapi.png)
+![UML kereta api](img/umlkeretaapi.png)
 
 - Buatlah package <identifier>.relasiclass.percobaan3, kemudian tambahkan class Pegawai.
 
@@ -362,7 +362,7 @@ Sebuah Kereta Api dioperasikan oleh Masinis serta seorang Asisten Masinis. Bai
 
 ### Percobaan 4
 
-![UML gerbong](img/gerbong.png)
+![UML gerbong](img/umlgerbong.png)
 
 - Buatlah masing‑masing class Penumpang, Kursi dan Gerbong sesuai rancangan tersebut pada package <identifier>.relasiclass.percobaan4.
 
