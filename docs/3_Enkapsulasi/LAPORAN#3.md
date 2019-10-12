@@ -147,25 +147,12 @@ Maka hasil seperti gambar di atas. Dapat dilihat pada hasil percobaan diatas, un
 8. Apa perbedaan atribut class dan instansiasi atribut?
 
     jawab:
-    Atribut merupakan nilai data yang terdapat pada suatu object yang ada di suatu class. Atribut merepresentasikan karakteristik dari suatu object. Atau Atribut adalah sesuatu yang dimiliki oleh objek. Sedangkan instansiasi atribut contohnya seperti
-
-    AnggotaK1841720003Mayang(String mNoKTP, String 
-
-    mNama, int mLimPinjam) {
-
-        this.mNoKTP = mNoKTP;
-        this.mNama = mNama;
-        this.mLimPinjam = mLimPinjam;
+    (perbaikan) perbedaannya yaitu kalau atribut class adalah variable yang ada di dalam class sedangkan kalau instansiasi atribut adalah proses pembuatan atribut.
 
 9. Apa perbedaan class method dan instansiasi method?
 
     jawab:
-    class method adalah fungsi-fungsi yang berada dalam class seperti parameter, mengembalikan nilai(return) dll. Sedangkan Instansiasi method contohnya seperti
-
-    public String getmNoKTPMayang() {
-
-        return mNoKTP;
-    }
+    (perbaikan) perbedaanya yaitu kalau class method adalah method yang ada di class yang berisi beberapa fungsi, sedangkan instansiasi method adalah proses pembuatan method
 
 ## Tugas
 
