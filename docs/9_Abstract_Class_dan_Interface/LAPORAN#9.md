@@ -60,7 +60,9 @@ Pada percobaan pertama ini kita akan membuat sebuah program yang menggambarkan s
 
 ### Percobaan 2
 Pada sebuah wisuda, seorang Rektor akan memberikan penghargaan sertifikat Cumlaude pada semua mahasiswa yang memenuhi persyaratan. Persyaratan agar seorang mahasiswa dapat disebut sebagai Cumlaude berbeda-beda antara mahasiswa Sarjana dan Pasca Sarjana.
+
 ![uml](img/uml2.PNG)
+
 Untuk menjadi cumlaude, mahasiswa Sarjana harus mengerjakan skripsi dan memiliki IPK lebih tinggi dari 3,51. Sedangkan untuk mahasiswa Pasca Sarjana, mereka harus mengerjakan tesis dan meraih IPK lebih tinggi dari 3,71
 
 - Buatlah class interface ICumlaude, lalu tambahkan 2 abstract methods bernama lulus() dan meraihIPKTinggi().
@@ -118,6 +120,7 @@ Untuk menjadi cumlaude, mahasiswa Sarjana harus mengerjakan skripsi dan memiliki
     Tidak, sebab pada object pakRektor memanggil method beriSertifikatCumlaude() untuk memanggil inputan sebuah objek yang sudah terinstansiasi. Bukan untuk memanggil method.
 
 4. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini:
+
     ![soal](img/soal4.PNG)
 
     Jawab:
