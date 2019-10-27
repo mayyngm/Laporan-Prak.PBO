@@ -126,12 +126,15 @@ Untuk menjadi cumlaude, mahasiswa Sarjana harus mengerjakan skripsi dan memiliki
     Jawab:
 
     ![modif](img/b1.PNG)
+    
     Class sarjana modif--> [Sarjana1841720003Mayang1.java](../../src/9_Abstract_Class_dan_Interface/Sarjana1841720003Mayang1.java)
 
     ![modif](img/a1.PNG)
+    
     Class pascasarjana modif--> [Pascasarjana1841720003Mayang1.java](../../src/9_Abstract_Class_dan_Interface/Pascasarjana1841720003Mayang1.java)
     
     ![modif](img/modif4.PNG)
+    
     [ProgramB1841720003Mayang1.java](../../src/9_Abstract_Class_dan_Interface/ProgramB1841720003Mayang1.java)
 
 ### Percobaan 3
