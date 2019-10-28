@@ -10,12 +10,18 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
 - Ketika suatu abstract class diturunkan/ di-extends, maka subclass harus mengimplementasikan semua method abstract pada parent/ base class. Jika tidak mengimplementasikan semua method abstract maka subclass harus dideklarasikan sebagai abstract class.
 - abstrak
     a. Dapat memiliki properties dan methods seperti class biasa.
+
     b. Selalu memiliki methods yang tidak memiliki tubuh (hanya deklarasinya saja), disebut juga abstract method.
+
     c. Selalu dideklarasikan dengan menggunakan kata kunci abstract class.
+
 - interface
     a. Tidak ada apa-apa di dalamnya selain abstract methods.
+
     b. Di konvensi bahasa pemrograman Java, namanya dianjurkan untuk selalu diawali dengan huruf kapital ‘I’.
+
     c. Selalu dideklarasikan dengan menggunakan kata kunci interface.
+
     d. Diimplementasikan dengan menggunakan kata kunci implements.
 
 ## Percobaan
