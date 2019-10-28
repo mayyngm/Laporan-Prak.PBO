@@ -137,7 +137,7 @@ Untuk menjadi cumlaude, mahasiswa Sarjana harus mengerjakan skripsi dan memiliki
     
     ![modif](img/rektor2.PNG)
 
-    [ProgramB1841720003Mayang1.java](../../src/9_Abstract_Class_dan_Interface/Rektor1841720003Mayang11.java)
+    [Rektor1841720003Mayang11.java](../../src/9_Abstract_Class_dan_Interface/Rektor1841720003Mayang11.java)
     
     ![modif](img/modifno4.PNG)
     
