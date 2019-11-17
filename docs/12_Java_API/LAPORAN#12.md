@@ -53,6 +53,7 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
     Karena pada saat melakukan pengisian data itu membutuhkan objek
 
 5. Jelaskan fungsi potongan program dibawah ini pada percobaan 1!
+
     ![class](img/a2.PNG)
 
     Jawab:
