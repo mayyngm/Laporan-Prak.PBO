@@ -192,6 +192,8 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
 
 Link Menuju ke--> [FormKoneksi1841720003Mayang.java](../../src/12_Java_API/FormKoneksi1841720003Mayang.java)
 
+![class](img/biodata.PNG)
+
 - Jelaskan alur dari method ambil_data_tabel?
 
     Jawab:
