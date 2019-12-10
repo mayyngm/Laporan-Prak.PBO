@@ -5,10 +5,7 @@
  */
 package unittest.database;
 
-/**
- *
- * @author IQBAL
- */
+
 public class TestBackendKategori1841720003Mayang {
 
     public static void main(String[] args) {
