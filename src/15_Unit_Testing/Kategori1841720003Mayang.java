@@ -8,10 +8,7 @@ package unittest.database;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
-/**
- *
- * @author IQBAL
- */
+/
 public class Kategori1841720003Mayang {
 
     private int idkategori;
