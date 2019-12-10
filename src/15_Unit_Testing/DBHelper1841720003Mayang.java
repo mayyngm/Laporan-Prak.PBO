@@ -7,10 +7,7 @@ package unittest.database;
 
 import java.sql.*;
 
-/**
- *
- * @author IQBAL
- */
+
 public class DBHelper1841720003Mayang {
     private static Connection koneksi;
 
